@@ -144,8 +144,7 @@ class AndExoPlayerView(
     }
 
     override fun onTracksChanged(
-        trackGroups: TrackGroupArray,
-        trackSelections: TrackSelectionArray
+        tracks: Tracks
     ) {
     }
 
